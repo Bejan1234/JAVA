@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<airplanes>
+    <airplane>
+        <kerosene>700.0</kerosene>
+        <maintenance>M1</maintenance>
+        <insurance>Insurance1</insurance>
+        <flightCrewCost>7000.0</flightCrewCost>
+        <airplaneType>TURKISH_AIRLINES</airplaneType>
+    </airplane>
+    <airplane>
+        <kerosene>900.0</kerosene>
+        <maintenance>M2</maintenance>
+        <insurance>Insurance2</insurance>
+        <flightCrewCost>5000.0</flightCrewCost>
+        <airplaneType>LUFTANSA</airplaneType>
+    </airplane>
+    <airplane>
+        <kerosene>800.0</kerosene>
+        <maintenance>M3</maintenance>
+        <insurance>Insurance3</insurance>
+        <flightCrewCost>4000.0</flightCrewCost>
+        <airplaneType>LUFTANSA</airplaneType>
+    </airplane>
+    <airplane>
+        <kerosene>200.0</kerosene>
+        <maintenance>M3</maintenance>
+        <insurance>Insurance3</insurance>
+        <flightCrewCost>4000.0</flightCrewCost>
+        <airplaneType>LUFTANSA</airplaneType>
+    </airplane>
+</airplanes>
